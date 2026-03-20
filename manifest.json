@@ -1,0 +1,19 @@
+{
+  "name": "Baloo",
+  "short_name": "Baloo",
+  "theme_color": "",
+  "background_color": "#202D48",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774007053-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

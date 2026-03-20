@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#202D48",
+            "lang-select-color": "#222829",
+            "bg-light": "#202D48",
+            "welcome-bonus-bg": "#202D48",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#2e4169",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#4773DB",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#4773DB",
+            "yellow": "#516488",
+            "yellow-button": "#4773DB",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#202D48",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#202D48",
+            "faq-label": "#202D48",
+            "bg-footer": "#202D48",
+            "copyright": "#e7e7d5",
+            "starColor": "#4773DB",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4841"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4842",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Baloo Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4844",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Baloo"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Baloo",
+                    "title": "Baloo Casino France — Bonus 500€ + 200 Tours Gratuits",
+                    "description": "Jouez sur Baloo Casino en France avec 6500+ slots, croupiers live et bonus 100% jusqu'à 500€ + 200 tours gratuits. Paiements sécurisés. Inscrivez-vous maintenant !\n",
+                    "canonical": "baloo-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4846",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "baloo-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4847"
+                },
+                "hero": {
+                    "title": "Meilleur Casino en Ligne pour les Joueurs Français",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4848",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -7,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4849",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Réclamer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "Vous cherchez un casino en ligne fiable en France ? Nous opérons sous licence officielle avec un chiffrement SSL 256 bits, plus de 6 500 jeux certifiés et des paiements rapides via Visa, Skrill et cryptos. Voici pourquoi des milliers de joueurs français nous font confiance :\n",
+                    "items": [
+                        "Licence officielle Costa Rica — jeux certifiés RNG par auditeurs indépendants",
+                        "6 500+ slots et jeux live de 42+ providers : Pragmatic Play, Evolution, NetEnt",
+                        "Bonus de bienvenue 100% jusqu'à 500€ + 200 tours gratuits dès le 1er dépôt",
+                        "Retraits en 1-3 jours via Visa, Mastercard, Skrill, Trustly, Bitcoin, Revolut",
+                        "Chiffrement SSL 256 bits protégeant 100% des transactions et données personnelles",
+                        "Support client 24\/7 en français via live chat, email et réseaux sociaux"
+                    ],
+                    "advantagesAfterText": "Rejoignez des milliers de joueurs français qui profitent chaque jour d'un gaming certifié, sécurisé et récompensé. Notre équipe francophone est disponible 24h\/24, 365 jours par an.\n",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Baloo App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4856",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Baloo App",
+                    "mobileGooglePlayImageTitle": "Baloo App",
+                    "mobileIosImageTitle": "Baloo App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos de Baloo Casino",
+                        "description1": "Baloo Casino s'est imposé comme une référence du jeu en ligne pour les joueurs français. Opéré par THRONE TECH LIMITADA sous licence officielle, nous proposons 6 500+ jeux certifiés de 42+ providers de renommée mondiale.\n",
+                        "items": [
+                            "Lancement de la plateforme multi-devises avec 3000+ jeux certifiés",
+                            "Intégration d'Evolution Gaming pour le casino live en direct",
+                            "Ajout de 42+ providers et expansion à 6 500+ titres disponibles",
+                            "Lancement du programme VIP avec rakeback instantané jusqu'à 20%"
+                        ],
+                        "description2": "Nous opérons sous licence Costa Rica et utilisons le chiffrement SSL 256 bits sur 100% des transactions. Tous nos jeux sont testés par des auditeurs indépendants pour garantir un RNG équitable et une transparence totale.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4857",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Nous continuons d'enrichir notre catalogue pour les joueurs français avec de nouveaux providers et titres exclusifs. Rejoignez Baloo Casino et découvrez pourquoi nous sommes le choix numéro un en France !\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Catalogue de Jeux pour Joueurs Français",
+                        "description": "<h2>Catalogue Complet de Jeux de Casino en France — Plus de 6 500 Titres Certifiés<\/h2>\n\n<p>Chez Baloo Casino, nous mettons à disposition des joueurs français l'un des catalogues de jeux les plus complets du marché en ligne, avec plus de 6 500 titres certifiés issus de 42+ providers de renommée mondiale. Que vous soyez passionné de machines à sous, de tables de jeu classiques, de poker ou d'expériences avec croupiers en direct, notre plateforme de jeu répond à toutes vos attentes. Chaque titre disponible sur notre site est soumis à des audits indépendants garantissant un générateur de nombres aléatoires (RNG) équitable et certifié. Nous avons conçu notre interface pour offrir une navigation fluide, que vous jouiez depuis un ordinateur, une tablette ou un smartphone, avec une expérience mobile optimisée 100% responsive pour les joueurs en France.<\/p>\n\n<h3>Machines à Sous — Le Cœur de Notre Offre de Gaming<\/h3>\n<p>Notre sélection de slots en ligne représente le segment le plus vaste de notre catalogue, avec plus de 4 000 machines à sous disponibles en permanence pour les joueurs français. Vous trouverez des titres iconiques de NetEnt comme Starburst (RTP 96,1%), des productions de Pragmatic Play telles que Gates of Olympus (RTP 96,5%) ou Sweet Bonanza (RTP 96,48%), ainsi que des créations exclusives de fournisseurs comme Hacksaw Gaming, Push Gaming et Nolimit City. Nos slots se déclinent en plusieurs catégories : classiques à 3 rouleaux, vidéo slots à 5 rouleaux, Megaways avec jusqu'à 117 649 façons de gagner, et slots à jackpot progressif dont le gain maximal peut dépasser plusieurs millions d'euros. Chaque mois, de nouveaux titres font leur apparition sur notre plateforme pour garder votre expérience de jeu fraîche et stimulante.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slots Pragmatic Play :<\/strong> Gates of Olympus (RTP 96,5%), Sweet Bonanza (RTP 96,48%), The Dog House Megaways (RTP 96,51%), Big Bass Bonanza (RTP 96,71%). Mises de 0,20€ à 100€ par spin, disponibles sur mobile et desktop pour les joueurs français.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slots NetEnt :<\/strong> Starburst (RTP 96,1%), Gonzo's Quest (RTP 96%), Dead or Alive 2 (RTP 96,8%), Finn and the Swirly Spin. Technologie certifiée eCOGRA, avec des fonctionnalités Avalanche et Free Spins multiplieurs jusqu'à 5x.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slots Nolimit City :<\/strong> San Quentin xWays (RTP 96,26%), Tombstone RIP (RTP 96,08%), Mental (RTP 96,06%). Mécaniques xWays et xNudge pour des multiplicateurs de gains explosifs jusqu'à 150 000x.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Slots Hacksaw Gaming :<\/strong> Chaos Crew (RTP 96,1%), Stick 'Em (RTP 96,1%), Wanted Dead or a Wild. Populaires auprès des joueurs français grâce à leurs mécaniques innovantes de Sticky Wilds et Buy Feature.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpots Progressifs :<\/strong> Mega Moolah de Microgaming avec des jackpots historiquement supérieurs à 15 millions d'euros, Divine Fortune de NetEnt (jackpots local, major et mega), et Hall of Gods pour des gains transformateurs accessibles depuis la France.<\/li>\n<\/ul>\n\n<h3>Casino Live — Des Croupiers Professionnels en Direct pour la France<\/h3>\n<p>Notre section casino en direct est alimentée par les meilleurs studios de streaming au monde, principalement Evolution Gaming et Pragmatic Play Live, garantissant une expérience immersive avec des croupiers francophones et des tables dédiées aux joueurs français. Vous profitez de flux HD sans latence depuis des studios professionnels, avec des limites de mise adaptées à tous les profils de joueurs, des débutants aux high rollers. Plus de 200 tables live sont accessibles simultanément sur notre plateforme de jeu, couvrant la roulette, le blackjack, le baccarat, le poker et les game shows interactifs. La technologie de streaming 4K utilisée par Evolution Gaming assure une qualité d'image exceptionnelle, tandis que les interfaces multilingues facilitent le jeu pour tous les joueurs en France.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Live :<\/strong> Roulette Européenne (RTP 97,3%), Roulette Française avec règle La Partage (RTP 98,65%), Lightning Roulette avec multiplicateurs jusqu'à 500x, Speed Roulette (tirage toutes les 25 secondes). Mises de 0,20€ à 5 000€ par tour.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack Live :<\/strong> Blackjack Classique (RTP 99,5%), Infinite Blackjack avec sièges illimités, Lightning Blackjack avec multiplicateurs aléatoires, et tables VIP avec limites jusqu'à 10 000€. Croupiers formés aux standards internationaux.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat Live :<\/strong> Baccarat Standard (RTP 98,94%), Speed Baccarat pour des tours rapides, Baccarat Squeeze avec suspense accru, et No Commission Baccarat. Tables disponibles en salle standard et VIP, avec chat en direct avec le croupier.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Shows :<\/strong> Crazy Time (gain max 20 000x), Monopoly Live combinant plateau de jeu et casino, Mega Ball hybride bingo-loterie, Deal or No Deal Live, et Dream Catcher roue de la fortune. Parfaits pour une expérience divertissante en France.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Poker Live :<\/strong> Three Card Poker, Casino Hold'em (RTP 97,84%), Caribbean Stud Poker avec jackpot progressif, et Ultimate Texas Hold'em. Tableaux des statistiques en temps réel disponibles pour chaque partie en cours.<\/li>\n<\/ul>\n\n<h3>Jeux de Table Classiques et Variantes Numériques<\/h3>\n<p>Au-delà du casino live, notre catalogue propose une gamme complète de jeux de table en version numérique, idéaux pour s'entraîner ou jouer à son propre rythme. Les joueurs français trouveront des dizaines de variantes de roulette, blackjack, baccarat et poker développées par des fournisseurs certifiés comme Playtech, Microgaming et Evolution. Chaque jeu de table virtuel intègre un générateur de nombres aléatoires testé par iTech Labs, garantissant des résultats 100% impartiaux. Les mises minimales démarrent à 0,10€ pour les joueurs occasionnels, tandis que les tables premium offrent des limites jusqu'à 50 000€ pour les high rollers basés en France.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #478ccf;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Jeu<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Mise Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #202738;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette FR<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">98,65%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0,20€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #293145;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">99,5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0,50€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #202738;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">98,94%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #293145;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97,84%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #202738;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96,5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0,10€<\/td>\n    <\/tr>\n    <tr style=\"background-color: #293145;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Crash Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">0,10€<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Jeux Instantanés et Crash Games — La Nouvelle Tendance en France<\/h3>\n<p>Baloo Casino intègre une catégorie dédiée aux jeux instantanés et crash games, extrêmement populaires auprès des joueurs français à la recherche de sensations rapides et de gains immédiats. Des titres comme Aviator de Spribe, JetX de SmartSoft et Spaceman de Pragmatic Play permettent de parier sur la trajectoire d'un multiplicateur en temps réel, avec des gains potentiels de 100x à 10 000x la mise initiale. Ces jeux provost une expérience hybride entre betting et casino, et s'avèrent particulièrement adaptés à la navigation mobile. Chaque session de jeu instantané démarre en quelques secondes et ne nécessite aucun téléchargement, accessible directement depuis votre navigateur en France.<\/p>\n\n<h3>Comment accéder à tous les jeux de Baloo Casino depuis la France ?<\/h3>\n<p>Accéder à notre catalogue complet depuis la France est simple et rapide. Il vous suffit de créer votre compte avec une adresse email valide, de vérifier votre identité via un document officiel, puis d'effectuer un premier dépôt minimum de 20€ via Visa, Mastercard, Skrill ou virement bancaire. Une fois connecté, tous les 6 500+ jeux certifiés sont disponibles instantanément, avec ou sans argent réel grâce au mode démo gratuit. Notre interface francophone intuitive vous guide à travers chaque catégorie de jeu, et nos filtres de recherche avancés permettent de trouver rapidement votre titre favori parmi l'ensemble du catalogue disponible pour les joueurs en France.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Étape 1 — Inscription :<\/strong> Créez votre compte Baloo Casino en 2 minutes avec votre email, choisissez un mot de passe sécurisé et renseignez vos informations personnelles pour la vérification KYC obligatoire en France.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Étape 2 — Vérification :<\/strong> Soumettez une pièce d'identité valide (passeport ou carte nationale d'identité) et un justificatif de domicile de moins de 3 mois. La validation est généralement traitée sous 24 heures par notre équipe francophone.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Étape 3 — Premier Dépôt :<\/strong> Effectuez votre premier dépôt de minimum 20€ via Visa, Mastercard, Skrill, Trustly, Revolut, Bitcoin ou virement SEPA. Le bonus 100% jusqu'à 500€ + 200 tours gratuits est crédité automatiquement sous 5 minutes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Étape 4 — Jouez :<\/strong> Explorez nos 6 500+ jeux certifiés, filtrez par provider, type ou popularité, et lancez vos sessions avec ou sans bonus. Le mode démo gratuit est disponible pour tous les slots et jeux de table sans dépôt.<\/li>\n<\/ul>\n\n<p>Chez Baloo Casino, nous nous engageons à offrir aux joueurs français l'expérience de jeu en ligne la plus complète, la plus sécurisée et la plus divertissante du marché. Notre catalogue ne cesse de s'agrandir avec de nouveaux titres ajoutés chaque semaine, et nos promotions exclusives pour la France garantissent que chaque session de jeu est récompensée à sa juste valeur. Rejoignez notre communauté de joueurs français et découvrez pourquoi Baloo Casino est la plateforme de gaming de référence en France !<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Paiements et Bonus pour la France",
+                        "description": "<h2>Méthodes de Paiement et Système de Bonus chez Baloo Casino pour les Joueurs Français<\/h2>\n\n<p>Chez Baloo Casino, nous avons sélectionné avec soin les méthodes de paiement les plus populaires et les plus rapides pour les joueurs français, afin de garantir des dépôts instantanés et des retraits efficients en euros. Notre système financier sécurisé par chiffrement SSL 256 bits traite chaque transaction avec une protection maximale des données personnelles. Que vous préfériez les cartes bancaires traditionnelles, les portefeuilles électroniques comme Skrill ou Neteller, les transferts bancaires SEPA ou les cryptomonnaies comme Bitcoin et Ethereum, nous couvrons toutes vos préférences de paiement depuis la France. La diversité de nos solutions bancaires reflète notre engagement envers les joueurs français qui souhaitent une flexibilité totale dans la gestion de leurs fonds sur notre plateforme de jeu.<\/p>\n\n<h3>Méthodes de Dépôt Disponibles en France<\/h3>\n<p>Nos joueurs français bénéficient d'un large éventail d'options pour alimenter leur compte de jeu, avec un dépôt minimum fixé à 20€ pour la plupart des méthodes. Les cartes Visa et Mastercard permettent des dépôts instantanés sans frais supplémentaires, directement depuis votre compte bancaire français. Les portefeuilles électroniques Skrill et Neteller assurent des transactions sécurisées avec traitement immédiat, idéaux pour les joueurs qui privilégient la rapidité et la discrétion. Les solutions innovantes comme Trustly et Revolut offrent des virements bancaires en ligne ultra-rapides compatibles avec les principales banques françaises (BNP Paribas, Société Générale, Crédit Agricole, La Banque Postale). Pour les joueurs adeptes des cryptomonnaies en France, nous acceptons Bitcoin, Ethereum et Tether (USDT) avec des transactions traitées sous 30 minutes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa \/ Mastercard :<\/strong> Dépôt instantané de 10€ à 5 000€, retrait sous 1-3 jours ouvrables. Compatibles avec toutes les banques françaises, sans frais de traitement de notre part. Méthode recommandée pour les nouveaux joueurs français.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill & Neteller :<\/strong> Dépôt instantané de 10€ à 5 000€, retrait sous 24 heures. Portefeuilles électroniques largement utilisés en France, offrant une couche de sécurité supplémentaire entre votre banque et Baloo Casino.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Trustly :<\/strong> Virement bancaire en ligne instantané de 20€ à 5 000€, retrait possible sous quelques heures. Connexion directe à votre banque française sans partage de données sensibles de carte bancaire.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Revolut :<\/strong> Paiement mobile de 10€ à 2 000€ en dépôt, traitement instantané. Parfait pour les joueurs français habitués aux néo-banques et aux transactions depuis smartphone.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptomonnaies :<\/strong> Bitcoin (BTC), Ethereum (ETH) et Tether USDT acceptés pour dépôts de 20€ équivalent minimum. Transactions confirmées sous 30 minutes, avec confidentialité maximale pour les joueurs français souhaitant l'anonymat.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Neosurf & AstroPay :<\/strong> Cartes prépayées disponibles en tabacs et supermarchés français, parfaites pour les joueurs souhaitant contrôler leur budget de jeu sans carte bancaire. Dépôts de 10€ à 500€ disponibles immédiatement.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Virement SEPA :<\/strong> Transfert bancaire classique de 50€ à 10 000€, traitement sous 1-3 jours ouvrables. Option recommandée pour les retraits importants depuis votre compte Baloo Casino vers votre banque française.<\/li>\n<\/ul>\n\n<h3>Tableau Récapitulatif des Méthodes de Paiement pour la France<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #478ccf;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Méthode<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Dépôt<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Retrait<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #202738;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instantané<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1-3 jours<\/td>\n    <\/tr>\n    <tr style=\"background-color: #293145;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instantané<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #202738;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Trustly<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instantané<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Quelques h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #293145;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Revolut<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instantané<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">N\/A<\/td>\n    <\/tr>\n    <tr style=\"background-color: #202738;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">30 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #293145;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>SEPA<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1-3 jours<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1-3 jours<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Système de Bonus — Maximisez Vos Gains dès le Premier Dépôt<\/h3>\n<p>Notre programme de bonus chez Baloo Casino est conçu pour récompenser généreusement les joueurs français à chaque étape de leur parcours de jeu. Le package de bienvenue s'étend sur vos quatre premiers dépôts, offrant un potentiel de gains supplémentaires considérable dès votre inscription. Chaque bonus est soumis à des conditions de mise claires et transparentes, affichées explicitement sur notre site pour garantir une expérience de jeu équitable en France. Notre programme VIP avec rakeback instantané jusqu'à 20% récompense en permanence les joueurs les plus actifs, tandis que les Missions quotidiennes et le Wheel of Fortune avec des prix jusqu'à 500 000€ ajoutent une dimension de gamification unique à votre expérience.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus de 1er Dépôt :<\/strong> 100% jusqu'à 500€ + 200 tours gratuits sur Lady Wolf Moon Megaways. Dépôt minimum 20€, condition de mise 35x le montant du bonus dans les 30 jours. Bonus crédité automatiquement sous 5 minutes après le dépôt.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus de 2ème Dépôt :<\/strong> 75% jusqu'à 750€ + 175 tours gratuits sur Burning Chilli 243. Les free spins sont distribués sur 5 jours consécutifs, idéaux pour les joueurs français qui préfèrent étaler leurs avantages dans le temps.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus de 3ème Dépôt :<\/strong> 50% jusqu'à 1 000€ + tours gratuits additionnels. Ce bonus de rechargement permet aux joueurs français d'augmenter significativement leur bankroll lors de leur troisième alimentation de compte.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus de 4ème Dépôt :<\/strong> 150% jusqu'à 1 000€ + free spins exclusifs. Le bonus le plus généreux en pourcentage de notre package de bienvenue, récompensant la fidélité des joueurs français dès leurs premières semaines.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Programme VIP & Rakeback :<\/strong> 25 niveaux VIP avec rakeback instantané jusqu'à 20% sur toutes vos mises. Plus vous jouez sur Baloo Casino, plus votre taux de cashback augmente, avec des avantages exclusifs réservés aux membres VIP en France.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Missions Quotidiennes :<\/strong> Complétez des défis de jeu quotidiens pour remporter des récompenses supplémentaires en tours gratuits et argent bonus. Les Missions sont renouvelées chaque jour, garantissant un flux constant de promotions pour les joueurs actifs en France.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wheel of Fortune :<\/strong> Tournez la roue de la fortune pour des prix allant jusqu'à 500 000€. Cet élément de gamification unique distingue Baloo Casino des autres plateformes de jeu en France, ajoutant une couche d'excitation à chaque session.<\/li>\n<\/ul>\n\n<h3>Jeu Responsable — Notre Engagement envers les Joueurs Français<\/h3>\n<p>Chez Baloo Casino, nous prenons très au sérieux la protection de nos joueurs français et promouvons activement une culture de jeu responsable. Nous mettons à disposition des outils complets pour aider chaque joueur à maintenir le contrôle de son activité de jeu : limites de dépôt personnalisables (journalières, hebdomadaires, mensuelles), auto-exclusion temporaire ou permanente, et pause de compte sur demande auprès de notre équipe support francophone. Notre logiciel de détection des comportements à risque analyse les patterns de jeu en temps réel pour identifier proactivement les joueurs qui pourraient nécessiter une assistance. Nous coopérons avec les organismes de soutien reconnus en France comme Joueurs Info Service (numéro vert 09 74 75 13 13) et encourageons chaque joueur à définir ses propres limites avant de commencer à jouer sur notre plateforme.<\/p>\n\n<h3>Support Client Francophone — Une Assistance 24h\/24 pour la France<\/h3>\n<p>Notre équipe de support client est entièrement disponible en français, 24 heures sur 24, 7 jours sur 7, pour assister les joueurs basés en France avec professionnalisme et réactivité. Le live chat intégré à notre plateforme offre un temps de réponse moyen inférieur à 2 minutes, tandis que notre support par email garantit une réponse détaillée sous 24 heures pour les demandes plus complexes. Que ce soit pour une question sur un bonus, une assistance technique, une demande de vérification ou un conseil sur nos méthodes de paiement, nos agents francophones sont formés pour résoudre chaque situation efficacement. Nous sommes également joignables via les réseaux sociaux pour les retours et suggestions de la communauté française de joueurs Baloo Casino.<\/p>\n\n<p>En choisissant Baloo Casino, les joueurs français bénéficient d'une combinaison unique de générosité bonusière, de diversité des paiements, de sécurité certifiée et d'un support humain francophone disponible à toute heure. Notre plateforme continue d'évoluer pour répondre aux attentes croissantes des joueurs en France, avec de nouvelles méthodes de paiement et promotions exclusives ajoutées régulièrement. Inscrivez-vous dès maintenant sur Baloo Casino et commencez à profiter d'une expérience de jeu en ligne incomparable en France !<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Comment réclamer mon bonus de bienvenue sur Baloo Casino ?",
+                            "answer": "Inscrivez-vous, vérifiez votre email et déposez minimum 20€ via Visa, Mastercard ou Skrill. Votre bonus 100% jusqu'à 500€ + 200 tours gratuits est crédité automatiquement sous 5 minutes. La condition de mise est de 35x le bonus dans les 30 jours. Notre support francophone 24\/7 vous aide via live chat.\n"
+                        },
+                        {
+                            "title": "Quelles méthodes de paiement sont disponibles pour les joueurs français ?",
+                            "answer": "Nous acceptons Visa, Mastercard, Skrill, Neteller, Trustly, Revolut, Neosurf, AstroPay, Bitcoin, Ethereum et USDT pour les joueurs en France. Dépôt minimum 20€, retrait minimum 40€. Les portefeuilles électroniques sont traités en 24h, les cartes en 1-3 jours ouvrables, les cryptos en moins de 24h.\n"
+                        },
+                        {
+                            "title": "Combien de temps prend un retrait sur Baloo Casino depuis la France ?",
+                            "answer": "Les retraits via Skrill et Neteller sont traités sous 24 heures, Trustly en quelques heures, et les cartes Visa\/Mastercard en 1-3 jours ouvrables. Les virements SEPA vers votre banque française prennent 1-5 jours. Toutes les demandes de retrait sont traitées après vérification KYC complète de votre compte.\n"
+                        },
+                        {
+                            "title": "Baloo Casino est-il sûr et légal pour jouer en France ?",
+                            "answer": "Baloo Casino opère sous licence officielle avec chiffrement SSL 256 bits protégeant 100% des transactions. Tous les jeux sont certifiés par des auditeurs indépendants avec RNG équitable. Nous proposons des outils de jeu responsable complets : limites de dépôt, auto-exclusion et contact vers Joueurs Info Service (09 74 75 13 13).\n"
+                        },
+                        {
+                            "title": "Puis-je jouer au casino live sur mobile depuis la France ?",
+                            "answer": "Oui, notre casino live est entièrement accessible sur mobile depuis la France sans téléchargement. Plus de 200 tables live d'Evolution Gaming et Pragmatic Play Live sont disponibles en streaming HD via votre navigateur mobile. L'interface responsive s'adapte à tous les smartphones iOS et Android pour une expérience optimale.\n"
+                        },
+                        {
+                            "title": "Quels documents sont nécessaires pour vérifier mon compte Baloo ?",
+                            "answer": "Pour valider votre compte, soumettez une pièce d'identité valide (passeport ou carte nationale d'identité française) et un justificatif de domicile de moins de 3 mois. La vérification KYC est traitée sous 24 heures par notre équipe francophone. Cette étape est obligatoire pour effectuer votre premier retrait sécurisé.\n"
+                        },
+                        {
+                            "title": "Comment fonctionne le programme VIP et le rakeback sur Baloo Casino ?",
+                            "answer": "Notre programme VIP comprend 25 niveaux avec rakeback instantané jusqu'à 20% sur toutes vos mises. Plus vous jouez, plus votre niveau VIP augmente et plus votre cashback est élevé. Les membres VIP bénéficient également d'un gestionnaire de compte dédié francophone, de promotions exclusives et d'un accès prioritaire aux nouvelles fonctionnalités de la plateforme.\n"
+                        },
+                        {
+                            "title": "Qu'est-ce que le Wheel of Fortune proposé par Baloo Casino ?",
+                            "answer": "Le Wheel of Fortune est une fonctionnalité de gamification exclusive sur Baloo Casino vous permettant de faire tourner une roue pour gagner des prix allant jusqu'à 500 000€. Accessible depuis votre compte après éligibilité, il constitue une récompense supplémentaire aux bonus classiques. Les Missions quotidiennes permettent également de débloquer des tours gratuits de la roue.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
